@@ -1,2 +1,2 @@
 # Dear-Data
-My project containing data collection for trhe Dear Data assignment, visualised in a Processing Sketch.
+My project containing train data collection for the Dear Data assignment, to be visualised in a Processing Sketch.
